@@ -12,7 +12,7 @@ Where i s the angle of incident and r is the angle of refraction. And $n_{1}$ s 
  
 And the speed of light on both face is related to the equation
 
-$$\frac{c_{1}}{c_{2}}=\frac{n_{2}}{n_{1]}}..................(2)$$
+$$\frac{c_{1}}{c_{2}}=\frac{n_{2}}{n_{1}}..................(2)$$
 
 $c_{1}$ is the velocity of wave in first face and $c_{2}$ is the velocity of wave in second face .
 

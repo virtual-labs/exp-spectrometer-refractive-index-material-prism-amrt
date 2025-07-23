@@ -38,7 +38,7 @@ Spectrometer, equilateral prism, sodium light etc.
 1. Turn the telescope towards the white wall or screen and looking through eye-piece, adjust its position till the cross wires are clearly seen.
 2. Turn the telescope towards window, focus the telescope to a long distant object.
 3. Place the telescope parallel to collimator.
-4. Place the collimator directed towards sodium vapor lamb. Switch on the lamp.
+4. Place the collimator directed towards sodium vapor lamp. Switch on the lamp.
 5. Focus collimator slit using collimator focusing adjustment.
 6. Adjust the collimator slit width.
 7. Place prism table, note that the surface of the table is just below the level of telescope and collimator.

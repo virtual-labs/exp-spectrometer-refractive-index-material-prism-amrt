@@ -24,6 +24,30 @@
       
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "When minimum deviation occurs, the light ray inside the prism:",
+      "answers": {
+        "a": "Reflects entirely at the surface",
+        "b": "Passes undeviated",
+        "c": "Travels symmetrically",
+        "d": "Travels along the base of the prism"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not an essential component in this spectrometer experiment?",
+      "answers": {
+        "a": "Collimator",
+        "b": "Telescope",
+        "c": "Spherometer",
+        "d": "Prism table"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
     }
   ]
 }

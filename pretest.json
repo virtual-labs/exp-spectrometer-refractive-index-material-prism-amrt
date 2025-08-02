@@ -1,0 +1,53 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "How is the angle of the prism 𝐴 determined in the experiment?",
+      "answers": {
+        "a": "By measuring the deviation angle at different incidences",
+        "b": "By measuring the angle between two reflected rays from prism faces",
+        "c": "By using a protractor",
+        "d": "By setting the telescope at 90°"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the significance of minimum deviation in this experiment?",
+      "answers": {
+        "a": "It helps align the telescope",
+        "b": "It minimizes the error in measurement",
+        "c": "It allows accurate calculation of refractive index",
+        "d": "It gives the thickness of the prism"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When minimum deviation occurs, the light ray inside the prism:",
+      "answers": {
+        "a": "Reflects entirely at the surface",
+        "b": "Passes undeviated",
+        "c": "Travels symmetrically",
+        "d": "Travels along the base of the prism"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not an essential component in this spectrometer experiment?",
+      "answers": {
+        "a": "Collimator",
+        "b": "Telescope",
+        "c": "Spherometer",
+        "d": "Prism table"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
